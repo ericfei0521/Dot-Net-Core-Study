@@ -1,0 +1,15 @@
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/dotnetTest.deps.json
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/dotnetTest.runtimeconfig.json
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/dotnetTest.runtimeconfig.dev.json
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/dotnetTest.dll
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/ref/dotnetTest.dll
+/Users/ericfei/Desktop/dotnetTest/bin/Debug/net5.0/dotnetTest.pdb
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.csprojAssemblyReference.cache
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.AssemblyInfoInputs.cache
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.AssemblyInfo.cs
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.csproj.CoreCompileInputs.cache
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.dll
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/ref/dotnetTest.dll
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.pdb
+/Users/ericfei/Desktop/dotnetTest/obj/Debug/net5.0/dotnetTest.genruntimeconfig.cache
