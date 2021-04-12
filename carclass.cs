@@ -2,7 +2,7 @@ using System;
 
 namespace MyApplication
 {
-    class Car
+    class Car :Vehicle //inherite the propterties from Vehicle
     {
         public string model;
         public string color;

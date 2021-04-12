@@ -11,7 +11,8 @@ namespace GetLastName
             IfElseMethod("callback002",10);
             IfElseMethod("callback003",20);
             Car Ford = new Car("Mustang", "Red", 1969);
-            Console.WriteLine("Ford model: " + Ford.color + " " + Ford.year + " " + Ford.model);
+            Ford.honk();//call vehicle method
+            Console.WriteLine("Ford model: " + Ford.color + " " + Ford.year + " " + Ford.model + Ford.brand);//display the value from vehicle 
         }
 
         static void IfElseMethod(string title ,int time)
