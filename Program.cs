@@ -1,20 +1,29 @@
 ﻿using System;
 
-namespace MyApplication
+namespace GetLastName
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int myInt = 10;
-            double myDouble = 5.25;
-            bool myBool = true;
-            var transferNum = Convert.ToString(myInt); // Convert int to string
-            Console.WriteLine(transferNum);
-            Console.WriteLine(Convert.ToDouble(myInt));    // Convert int to double
-            Console.WriteLine(Convert.ToInt32(myDouble));  // Convert double to int
-            Console.WriteLine(Convert.ToString(myBool));   // Convert bool to string
+            IfElseMethod();
+        }
+
+        static void IfElseMethod()
+        {
+            int time = 9;
+            if (time < 10) 
+            {
+                Console.WriteLine("Good morning.");
+            } 
+            else if (time < 20) 
+            {
+                Console.WriteLine("Good day.");
+            } 
+            else 
+            {
+                Console.WriteLine("Good evening.");
+            }   
         }
     }
 }
-
