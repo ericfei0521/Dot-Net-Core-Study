@@ -6,23 +6,24 @@ namespace GetLastName
     {
         static void Main()
         {
-            IfElseMethod();
+            IfElseMethod("callback001",9);
+            IfElseMethod("callback002",10);
+            IfElseMethod("callback003",20);
         }
 
-        static void IfElseMethod()
+        static void IfElseMethod(string title ,int time)
         {
-            int time = 9;
             if (time < 10) 
             {
-                Console.WriteLine("Good morning.");
+                Console.WriteLine(title +" "+ "Good morning.");
             } 
             else if (time < 20) 
             {
-                Console.WriteLine("Good day.");
+                Console.WriteLine(title +" "+ "Good day.");
             } 
             else 
             {
-                Console.WriteLine("Good evening.");
+                Console.WriteLine(title +" "+ "Good evening.");
             }   
         }
     }
