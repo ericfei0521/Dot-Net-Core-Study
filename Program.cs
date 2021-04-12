@@ -1,4 +1,5 @@
 ﻿using System;
+using MyApplication;
 
 namespace GetLastName
 {
@@ -9,6 +10,8 @@ namespace GetLastName
             IfElseMethod("callback001",9);
             IfElseMethod("callback002",10);
             IfElseMethod("callback003",20);
+            Car volvo = new Car();
+            Console.WriteLine("volvo color : "+(volvo.color));
         }
 
         static void IfElseMethod(string title ,int time)
